@@ -34,6 +34,3 @@ def test_ingredient():
     ingredient = Ingredient("queijo mussarela")
     expected_restrictions = {Restriction.LACTOSE, Restriction.ANIMAL_DERIVED}
     assert ingredient.restrictions == expected_restrictions
-
-
-test_ingredient()
