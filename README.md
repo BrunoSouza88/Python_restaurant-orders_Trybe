@@ -4,6 +4,7 @@
 <p>The project utilizes the following technologies:</p>
 <ul>
   <li>Python 🐍</li>
+  <li>Flask 🖼️</li>
   <li>PyTest 🧪</li>
   <li>FastAPI ⏩</li>
 </ul>
